@@ -67,12 +67,6 @@ This project is deployed on **Netlify**:
 
 ---
 
-## 📃 License
-
-This project is open source and free to use under the [MIT License](LICENSE).
-
----
-
 ## 💬 Feedback
 
 Have suggestions or issues? Feel free to open an issue or a pull request. Contributions are welcome!
