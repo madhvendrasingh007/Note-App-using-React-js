@@ -6,6 +6,12 @@ Welcome to **MyNotes**, a sleek and minimal note-taking app built with React. Cr
 
 ---
 
+## 📸 Screenshots
+
+![Alt Text](public/snapshot%20notes.png)
+
+---
+
 ## 🚀 Features
 
 - 📄 Create, edit, and delete notes
